@@ -16,5 +16,6 @@ public class AppTest
     public void test01(){
         System.out.println("abc......");
         System.out.println("分支操作......");
+        System.out.println("分支操作......");
     }
 }
